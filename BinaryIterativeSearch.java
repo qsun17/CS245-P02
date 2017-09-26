@@ -1,11 +1,15 @@
-package edu.usfca.cs.cs245;
+//package edu.usfca.cs.cs245;
 
 //import java.util.*;  //I add this to every class because I'm not able to built the project by using eclipse, instead I used terminal.
 
 public class BinaryIterativeSearch implements Practice2Search{
 	
 	
-	
+	/*
+	You are using too much whitespace
+	Be consistent with how you use it and try not to have extra whitespace that isn't
+	meaningfully seperating anything.
+	*/
 	public BinaryIterativeSearch() {
 		
 	}
